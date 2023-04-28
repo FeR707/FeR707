@@ -12,12 +12,11 @@
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
-        <img src="" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="" title="C#" alt="C#" width="40" height="40"/>
-      <img src="" title="Arduino" alt="Arduino" width="40" height="40"/>
-      <img src="" title="Visual Code" alt="Visual Code" width="40" height="40"/>
+        <img src="https://github.com/FeR707/FeR707/blob/main/asset/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/FeR707/FeR707/blob/main/asset/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/FeR707/FeR707/blob/main/asset/csharp.svg" title="C#" alt="C#" width="40" height="40"/>
+      <img src="https://github.com/FeR707/FeR707/blob/main/asset/arduino.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
+      <img src="https://github.com/FeR707/FeR707/blob/main/asset/vscode.svg" title="Visual Code" alt="Visual Code" width="40" height="40"/>
       </div>
 </div>
 
